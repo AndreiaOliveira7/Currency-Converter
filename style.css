@@ -9,24 +9,30 @@
 }
 body {
   background-color: #e5e5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 header {
   background-color: #1b83e2;
   height: 66px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
   width: 375px;
-  height: 750px;
   background-color: #f4f4f4;
-  margin: 0 auto;
-  margin-top: 50px;
+  /*margin: 0 auto;*/
+  /*margin-top: 50px;*/
 }
 h1 {
   font-size: 24px;
   color: #f4f4f4;
-  text-align: center;
-  padding-top: 22px;
+  /*text-align: center;*/
+  /*padding-top: 22px;*/
 }
 main {
   padding: 24px;
@@ -88,11 +94,18 @@ button:active {
 section {
   border: 1px solid #1b83e2;
   border-radius: 4px;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  /*text-align: center;*/
 }
 .currency-container {
-  text-align: center;
+  /*text-align: center;*/
   padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .currency-name {
   font-size: 14px;
