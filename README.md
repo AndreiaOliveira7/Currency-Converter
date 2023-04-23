@@ -1,18 +1,26 @@
-# Currency-Converter
+<h1 align="center"> Currency Converter </h1>
 
-<br>
-<p> Um conversor de moedas, de real para:
-<ul>
-<li> dólar; </li>
-<li> euro</li>
-<li> bitcoin </li>
-</ul>
+<p align="center">
+Projeto desenvolvido durante uma aula do curso DevClub.<br/>
+</p>
 
-## Foi feito utilizando: 
-- HTML
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML 
 - CSS
-- display Flex
+- Display flex
 - Javascript
 
-### Falta adicionar:
+## 💻 Projeto
+
+É um conversor de moedas, feitos para converter do Real para o Euro, Dólar ou Bitcoin.
+
+- [Clique aqui para verificar](https://andreiaoliveira7.github.io/Currency-Converter/)
+
+
+#### Falta adicionar
+
 - Uma API para pegar a cotação diária da moeda e convertê-la.
