@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-É um conversor de moedas, feitos para converter do Real para o Euro, Dólar ou Libra.
+É um conversor de moedas, feitos para converter do Real para o Euro, Dólar ou Bitcoin.
 
 - [Clique aqui para verificar](https://andreiaoliveira7.github.io/Currency-Converter/)
 
